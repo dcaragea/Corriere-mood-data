@@ -11,6 +11,7 @@ peoples_paper_2016_URL_data_split_mood_category/ - contains the data split with 
 peoples_paper_2016_URL_data_split_mood_score/ - contains the data split with article's URLs and comment's post ids for the mood score task.
 
 Please cite the following paper if you are using the data:
+
 *Firoj Alam, Fabio Celli, Evgeny A. Stepanov, Arindam Ghosh, Giuseppe Riccardi, The Social Mood of News: Self-reported Annotations to Design Automatic Mood Detection Systems, Workshop on Computational Modeling of People's Opinions, Personality, and Emotions in Social Media, Co-located with COLING 2016, Osaka, Japan, 2016.*
 
 Data for the task of Mood sharing paper 2016:

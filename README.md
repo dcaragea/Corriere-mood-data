@@ -39,4 +39,17 @@ Please cite the following paper if you are using the data:
 
 *Fabio Celli, Arindam Ghosh, Firoj Alam, Giuseppe Riccardi, In the Mood for Sharing Contents: Emotions, Personality and Interaction Styles in the Diffusion of News, Information Processing & Management, Elsevier, 2016.*
 
+```bib
+@article{celli2016mood,
+  title={In the mood for sharing contents: Emotions, personality and interaction styles in the diffusion of news},
+  author={Celli, Fabio and Ghosh, Arindam and Alam, Firoj and Riccardi, Giuseppe},
+  journal={Information Processing \& Management},
+  volume={52},
+  number={1},
+  pages={93--98},
+  year={2016},
+  publisher={Elsevier}
+}
+```
+
 In order to get the raw tweets and corriere data please email directly to the sis lab or request here: http://sisl.disi.unitn.it/corea-corpus/

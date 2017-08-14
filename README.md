@@ -14,6 +14,16 @@ Please cite the following paper if you are using the data:
 
 *Firoj Alam, Fabio Celli, Evgeny A. Stepanov, Arindam Ghosh, Giuseppe Riccardi, The Social Mood of News: Self-reported Annotations to Design Automatic Mood Detection Systems, Workshop on Computational Modeling of People's Opinions, Personality, and Emotions in Social Media, Co-located with COLING 2016, Osaka, Japan, 2016.*
 
+```bib
+@article{alam2016social,
+  title={The Social Mood of News: Self-reported Annotations to Design Automatic Mood Detection Systems},
+  author={Alam, Firoj and Celli, Fabio and Stepanov, Evgeny A and Ghosh, Arindam and Riccardi, Giuseppe},
+  journal={PEOPLES 2016},
+  pages={143},
+  year={2016}
+}
+```
+
 Data for the task of Mood sharing paper 2016:
 ---------------------------------------------
 
